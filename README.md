@@ -1,3 +1,1 @@
-<body style="background-color: #020617;">
-  <h1 style="color: white;">Vishal Kamath</h1>
-</body>
+<img src='./readme.png' alt='readme' title='"100 pushups, 100 sit-ups, 100 squats, and a 10km run!"'/>
