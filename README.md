@@ -1,1 +1,1 @@
-<img src="readme.svg" style="width: 100vw; min-height: 80rem; border-radius: 4vw;" alt="Click to see the source"/>
+<img src="readme.svg" width="100%" height="1000rem" alt="Click to see the source"/>
