@@ -1,3 +1,1 @@
 <img src="readme.svg" width="100%" height="925rem" alt="my git banner" title='"100 pushups, 100 sit-ups, 100 squats, and a 10km run!"'/>
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-Kamath&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Kamath&theme=tokyonight&hide_border=true" alt="stats" />
