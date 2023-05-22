@@ -7,12 +7,19 @@
       
           font-family: sans-serif;
 
-          background-color: #0F172A;
-          color: white;
+          background-color: #f0f9ff;
+            color: black;
 
           border-radius: 4vw;
           padding: 5vw;
           padding-top: 1vw;
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .container {
+            background-color: #0F172A;
+            color: white;
+          }
         }
 
         .title_image {
@@ -26,13 +33,17 @@
 
         .content_header {
           font: 600;
-          color: white;
           margin: 0;
         }
 
         .content {
           word-wrap: normal;
-          color: #94A3B8;
+          color: #475569;
+        }
+         @media (prefers-color-scheme: dark) {
+          .content {
+            color: #94a3b8;
+          }
         }
         
         .content-col {
